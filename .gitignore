@@ -286,3 +286,10 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+
+
+# by ZBY
+Debug_Unicode/
+Release_Unicode/
+
